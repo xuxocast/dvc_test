@@ -1,0 +1,4 @@
+outs:
+- md5: 2e0881810b92b10ba630b9eb622bef89
+  size: 5673
+  path: data_out.json
